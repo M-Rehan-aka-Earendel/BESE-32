@@ -1,1 +1,1 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
+1st[[:space:]]Semester-BESE-32-B/App[[:space:]]of[[:space:]]ICT/Discovering[[:space:]]Computers.pdf filter=lfs diff=lfs merge=lfs -text
